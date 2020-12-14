@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/effective-jenkins-continuous-delivery-with-jenkins-pipeline-video/9781788477710)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Effective Jenkins: Continuous Delivery with Jenkins Pipeline [Video]
 This is the code repository for [Effective Jenkins: Continuous Delivery with Jenkins Pipeline [Video]](https://www.packtpub.com/networking-and-servers/effective-jenkins-continuous-delivery-jenkins-pipeline-video?utm_source=github&utm_medium=repository&utm_campaign=9781788477710), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
